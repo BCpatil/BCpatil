@@ -16,7 +16,7 @@ I'm a Computer Science & Engineering student passionate about **Python, Data Ana
 Python, C, C++
 
 **Data Analytics & Data Science:**
-Pandas, NumPy, Scikit-learn, Matplotlib, Data Cleaning, Data Visualization, Machine Learning
+PowerBI, Pandas, NumPy, Scikit-learn, Matplotlib, Data Cleaning, Data Visualization, Machine Learning
 
 **Databases:**
 MySQL, PostgreSQL, SQL
