@@ -21,9 +21,6 @@ PowerBI, Pandas, NumPy, Scikit-learn, Matplotlib, Data Cleaning, Data Visualizat
 **Databases:**
 MySQL, PostgreSQL, SQL
 
-**AI & Computer Vision:**
-OpenCV, YOLO, SSD, ArcFace, Object Detection, Face Recognition, Image Processing
-
 **Business Intelligence:**
 Microsoft Excel, Power BI
 
